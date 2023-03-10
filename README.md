@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 *yukangyang*
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 yukangyang
 
 [![](https://img.shields.io/badge/-@飞天大眼-%2309a3d6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/388476777)
 [![](https://img.shields.io/badge/-@yukangyang-%23181717?style=flat-square&logo=github)](https://github.com/yukangyang)
