@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Yukangyang
 
-[![](https://img.shields.io/badge/-@飞天大眼style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/388476777)
+[![](https://img.shields.io/badge/-@飞天大眼?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/388476777)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/yukangyang)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
