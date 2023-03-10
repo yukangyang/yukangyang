@@ -43,4 +43,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=yukangyang&show_icons=true&theme=dracula)
+![yukangyang's github stats](https://github-readme-stats.vercel.app/api?username=yukangyang&show_icons=true&theme=dracula)
