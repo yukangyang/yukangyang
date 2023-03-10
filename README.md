@@ -2,9 +2,6 @@
 
 [![](https://img.shields.io/badge/-@飞天大眼-%2309a3d6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/388476777)
 [![](https://img.shields.io/badge/-@yukangyang-%23181717?style=flat-square&logo=github)](https://github.com/yukangyang)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
