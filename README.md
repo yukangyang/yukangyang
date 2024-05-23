@@ -22,5 +22,3 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Hexo](https://img.shields.io/badge/-Hexo-%23077fcb?style=flat-square&logo=Hexo&logoColor=000000)
-
-![yukangyang's github stats](https://github-readme-stats.vercel.app/api?username=yukangyang&show_icons=true&theme=dracula)
